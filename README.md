@@ -1,4 +1,4 @@
-<h2 align='center'> Hi there 👋, I am Piyush Sharma <h2>
+<h2 align='center'> Hi there 👋, I am Piyush Sharma </h2>
 <h3 align='center'>Third Year Computer Engineering Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TigerAtGit" alt="piyush pviews" /> </p>
 
