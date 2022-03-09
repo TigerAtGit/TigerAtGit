@@ -2,7 +2,7 @@
 <h3 align='center'>Third Year Computer Engineering Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TigerAtGit" alt="piyush pviews" /> </p>
 
-- 🔭 I’m currently working on MERN stack and Flutter Development
+- 🔭 I’m currently working on Blockchain Dev and Flutter Dev
 - 💬 Ask me about Python, HTML, CSS, Flutter
 - 📫 Connect with me: https://www.linkedin.com/in/piyush-sharma-1b5385146/
 
