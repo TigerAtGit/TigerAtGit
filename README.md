@@ -1,14 +1,16 @@
 <h2 align='center'> Hi there 👋, I am Piyush Sharma </h2>
 <h3 align='center'>Final Year Computer Engineering Student</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TigerAtGit" alt="piyush pviews" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TigerAtGit" alt="piyush pviews" /> </p>
 
-- 🔭 I’m currently working on Web Development and Cloud Computing
-- 💬 Ask me about Python, C++, JavaScript
-- 📫 Connect with me: https://www.linkedin.com/in/piyush-sharma-1b5385146/
+<ul align='center'>
+🔭 I’m currently working on Web Development and Cloud Computing<br>
+💬 Ask me about Python, C++, JavaScript<br>
+📫 Connect with me: https://www.linkedin.com/in/piyush-sharma-1b5385146/
+</ul>
+  
+<h3 align='center'>Tech Stack </h3>
 
-### Tech Stack
-
-<p align="left-align">
+<p align="center">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" height="40" style="vertical-align:top; margin:4px">
