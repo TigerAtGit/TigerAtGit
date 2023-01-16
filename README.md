@@ -26,7 +26,8 @@
 </p>
 
 
-<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TigerAtGit&layout=compact)](https://github.com/TigerAtGit/github-readme-stats)
--->
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TigerAtGit&layout=compact)](https://github.com/TigerAtGit/github-readme-stats) -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TigerAtGit&count_private=true&show_icons=true&theme=radical)](https://github.com/TigerAtGit/github-readme-stats)
+
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TigerAtGit&count_private=true&show_icons=true&theme=radical)](https://github.com/TigerAtGit/github-readme-stats)
+ -->
