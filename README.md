@@ -1,16 +1,15 @@
-<h2 align='center'> Hi there 👋, I am Piyush Sharma </h2>
-<h3 align='center'>Final Year Computer Engineering Student</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TigerAtGit" alt="piyush pviews" /> </p>
+<h2> Hi there 👋, I am Piyush Sharma </h2>
+<h3>Final Year Computer Engineering Student</h3>
+<p> <img src="https://komarev.com/ghpvc/?username=TigerAtGit" alt="piyush pviews" /> </p>
 
-<ul align='center'>
 🔭 I’m currently working on Web Development and Cloud Computing<br>
+⚡Currently exploring the endless possibilities of Machine Learning and unlocking the power of AI<br>
 💬 Ask me about Python, C++, JavaScript<br>
-📫 Connect with me: https://www.linkedin.com/in/piyush-sharma-1b5385146/
-</ul>
+📫 Connect with me: https://www.linkedin.com/in/engg-piyush-sharma/
   
-<h3 align='center'>Tech Stack </h3>
+<h3>Tech Stack </h3>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" height="40" style="vertical-align:top; margin:4px">
@@ -31,5 +30,5 @@
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TigerAtGit&layout=compact)](https://github.com/TigerAtGit/github-readme-stats) -->
 
 
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TigerAtGit&count_private=true&show_icons=true&theme=radical)](https://github.com/TigerAtGit/github-readme-stats)
- -->
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TigerAtGit&count_private=true&show_icons=true&theme=radical)](https://github.com/TigerAtGit/github-readme-stats)
+
