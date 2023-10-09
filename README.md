@@ -1,8 +1,8 @@
 <h2> Hi there 👋, I am Piyush Sharma </h2>
-<h3>Final Year Computer Engineering Student</h3>
+<h3>Computer Engineering Graduate (2023)</h3>
 <p> <img src="https://komarev.com/ghpvc/?username=TigerAtGit" alt="piyush pviews" /> </p>
 
-🔭 I’m currently working on Web Development and Cloud Computing<br>
+🔭 I’m currently working on Web Development projects<br>
 ⚡Currently exploring the endless possibilities of Machine Learning and unlocking the power of AI<br>
 💬 Ask me about Python, C++, JavaScript<br>
 📫 Connect with me: https://www.linkedin.com/in/engg-piyush-sharma/
